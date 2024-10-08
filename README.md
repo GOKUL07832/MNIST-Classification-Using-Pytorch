@@ -1,0 +1,1 @@
+This project demonstrates a simple convolutional neural network (CNN) for classifying handwritten digits from the MNIST dataset using PyTorch. The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9), and the task is to correctly classify each image into one of the 10 digit classes.
